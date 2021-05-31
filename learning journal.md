@@ -1,0 +1,109 @@
+# 1. How I Learned the Web Development
+
+## MONTH 1 - Learn Fundamentals from YouTube
+
+### A. Important Concepts
+
+_Most Important Concept to know to get started._
+
+1. [How The Internet Works - Code.org](https://www.youtube.com/watch?v=Dxcc6ycZ73M&list=PLzdnOPI1iJNfMRZm5DDxco3UdsFegvuB7)
+1. [HTML5 Basics- DevTips](https://youtu.be/NzzGt7EmXVw?list=PLqGj3iMvMa4KlJn1pMYPVV3eYzxJlWcON)
+1. [CSS Basics - DevTips](https://www.youtube.com/watch?v=s7ONvIgOWdM&list=PLqGj3iMvMa4IOmy04kDxh_hqODMqoeeCy)
+1. [Responsive Website Basics - DevTips](https://youtu.be/h3IdEqpjMvQ)
+1. [UI vs UX Design - Design Course](https://youtu.be/TgqeRTwZvIo)
+1. [Intro to Web Design - Webflow](https://www.youtube.com/watch?v=w-kBRUXsuSQ&list=PLPmnoMVpkxfgUhx2BG0x4S_tEFNjL0WVj)
+1. [That Weird JavaScript Course - Fireship](https://www.youtube.com/watch?v=Sh6lK57Cuk4&list=PL0vfts4VzfNixzfaQWwDUg3W5TRbE7CyI)
+1. [New to Figma? Get started with tutorials - Figma](https://www.youtube.com/playlist?list=PLXDU_eVOJTx7QHLShNqIXL1Cgbxj7HlN4)
+1. [Intro to Javascript - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803)
+
+### B. Crash Course
+
+#### Beginner Level CC
+
+Beginner friendly crash course to begin with and know about frontend development.
+
+1. [2020 Frontend Developer Crash Course for Absolute Beginners - Design Course](https://youtu.be/QA0XpGhiz5w)
+1. [UI Design Fundamentals - Scrimba](https://scrimba.com/g/gdesign)
+1. [The Figma Crash Course 2021 by Example - Design Course](https://www.youtube.com/watch?v=Gu1so3pz4bA)
+1. [Figma - Jess Showalter](https://www.youtube.com/watch?v=jk1T0CdLxwU&list=PLrtjkLnNjGHtl3niCYmap1KJsk9ObheXD)
+
+#### Intermediate Level CC
+
+Crash course to make me more comfortable after learning fundamentals of HTML and CSS one by one.
+
+1. [The 2019 Frontend Developer Crash Course for Beginner - Design Course](https://youtu.be/8gNrZ4lAnAw)
+1. [Creative Agency Website From Scratch | HTML & CSS - Traversy Media](https://youtu.be/lvYnfMOUOJY)
+1. [HTML and CSS Tutorial for 2021 - COMPLETE Crash Course - Design Course](https://youtu.be/D-h8L5hgW-w)
+1. [**From Figma to Code - Scrimba**](https://scrimba.com/learn/figmatocode)
+
+### C. Resources
+
+1. [HTML Tutorials](https://www.w3schools.com/html/)
+
+1. [**Learn the Web Development**](https://developer.mozilla.org/en-US/docs/Learn)
+
+1. [Modern CSS Solutions](https://moderncss.dev/)
+
+1. [CSS Tricks](https://css-tricks.com/)
+
+1. [Eloquent JavaScript](https://eloquentjavascript.net/)
+
+1. [You Don't Know JS](https://github.com/getify/You-Dont-Know-JS)
+
+1. [The Modern Javascript Tutorial](https://javascript.info/)
+
+### D. Learn Fundamentals One By One
+
+#### CSS Fundamentals
+
+[**Intro to Web Design - Webflow**](https://www.youtube.com/watch?v=w-kBRUXsuSQ&list=PLPmnoMVpkxfgUhx2BG0x4S_tEFNjL0WVj)
+
+1. [CSS Box Model - Kevin Powell](https://www.youtube.com/watch?v=EhbZGV2dqZ4&list=PL4-IK0AVhVjN1x-G7WHXs4y_Jo-MUocgf)
+1. [CSS Box Shadows - Kevin Powell](https://www.youtube.com/watch?v=-JNRQ5HjNeI&list=PL4-IK0AVhVjPV_GpQj-jAiPP4MrQDoRcM)
+1. CSS Positions\
+   [CSS Positions explaied in 6 minutes - codeSTACKr](https://www.youtube.com/watch?v=XrHMv_9LCfo)\
+   [CSS Positioning - DevTips](https://www.youtube.com/watch?v=kejG8G0dr5U&list=PLqGj3iMvMa4L731ispRfGAabXeRpM4RL6)
+1. [CSS Selectors & Combinators - Kevin Powell](https://youtu.be/Bcr70LIJcOk)
+1. [Before and After Pseudo Elements - codeSTACKr](https://youtu.be/-bwR9S5MmOI)
+1. [CSS Flexbox basics - Kevin Powell](https://www.youtube.com/watch?v=hwbqquXww-U&list=PL4-IK0AVhVjMSb9c06AjRlTpvxL3otpUd)
+1. CSS Backgrounds\
+   [All you need to know about CSS Backgrounds](https://youtu.be/zdubzXvqUyw)\
+   [Everything about CSS Gradients - Steve Griffith](https://youtu.be/5SDrstZcync)
+1. CSS Transforms\
+   [CSS 2D Transforms - Steve Griffith](https://youtu.be/IeWtxwjBXKQ)\
+   [CSS Transform Origin - Kevin Powell](https://youtu.be/ceNMP-aQkQ4)
+1. [CSS Transitions - Kevin Powell](https://www.youtube.com/watch?v=Nloq6uzF8RQ&list=PL4-IK0AVhVjNKdH-sQgq_z8gfqC6pRC9V)
+1. CSS Animation basics\
+   [Learn CSS Animation in 15 Minutes - WebDevSimplified](https://youtu.be/YszONjKpgg4)\
+   [CSS Animation Tutorial - Net Ninja](https://youtu.be/jgw82b5Y2MU?list=PL4cUxeGkcC9iGYgmEd2dm3zAKzyCGDtM5)
+1. CSS Grid\
+   [Learn CSS Grid in 20 Minutes - codeSTACKr](https://youtu.be/0-DY8J_skZ0)\
+   [Learn CSS Grid in 20 Minutes - WebDevSimplified](https://youtu.be/9zBsdzdE4sM)\
+   [**Videos on CSS Grid - Layout Land**](https://www.youtube.com/watch?v=FEnRpy9Xfes&list=PLbSquHt1VCf1x_-1ytlVMT0AMwADlWtc1)
+
+#### Javascript Fundamentals
+
+1. [Intro to Javascript - Udacity](https://www.udacity.com/course/intro-to-javascript--ud803)
+1. [Javascript in 90 seconds - codeSTACKr](https://www.youtube.com/watch?v=bGDK1rpykOQ&list=PLkwxH9e_vrALlH7D0XLDn2td-uoHqHFxq)
+1. [Javascript Array Methods - Florin Pop](https://www.youtube.com/watch?v=SXb5LN_opbA&list=PLgBH1CvjOA62PBFIDq55-S6Beivje30A2)
+1. [Javascript and the DOM - Udacity](https://www.udacity.com/course/javascript-and-the-dom--ud117)
+1. [Learn JavaScript DOM Traversal In 15 Minutes - WebDevSimplified](https://youtu.be/v7rSSy8CaYE)
+1. [Learn DOM Manipulation In 18 Minutes - WebDevSimplified](https://youtu.be/y17RuWkWdn8)
+1. [Intro to AJAX - Udacity](https://www.udacity.com/course/intro-to-ajax--ud110)
+1. [Object-Oriented Javascript - Udacity](https://www.udacity.com/course/object-oriented-javascript--ud711)
+1. [ES6 Javascript Improved - Udacity](https://www.udacity.com/course/es6-javascript-improved--ud356)
+1. [Asynchronous Javascript Requests - Udacity](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
+1. [Javascript Promises - Udacity](https://www.udacity.com/course/javascript-promises--ud898)
+1. [The Tricky Part of Javascript - Scrimba](https://scrimba.com/learn/trickyjavascript)
+
+### E. Mini Projects & Tutorials
+
+#### HTML/CSS
+
+[CSS Tips & Tricks - CodeSTACKr](https://www.youtube.com/watch?v=dIyVTjJAkLw&list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4)
+
+[CSS Animations and Effects - Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
+
+#### Javascript
+
+[Javascript 30 - Wes Bos](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
