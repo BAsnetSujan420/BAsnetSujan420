@@ -96,6 +96,7 @@ Crash course to make me more comfortable after learning fundamentals of HTML and
 1. [Javascript Promises - Udacity](https://www.udacity.com/course/javascript-promises--ud898)
 1. [The Tricky Part of Javascript - Scrimba](https://scrimba.com/learn/trickyjavascript)
 
+
 ### E. Mini Projects & Tutorials
 
 #### HTML/CSS
@@ -107,3 +108,64 @@ Crash course to make me more comfortable after learning fundamentals of HTML and
 #### Javascript
 
 [Javascript 30 - Wes Bos](https://www.youtube.com/watch?v=VuN8qwZoego&list=PLu8EoSxDXHP6CGK4YVJhL_VWetA865GOH)
+
+
+## MONTH 2 & 3 - Revision & Introduction to React JS
+
+### A. SASS
+
+[SASS Crash Course - Traversy Media](https://www.youtube.com/watch?v=nu5mdN2JIwM)
+
+[Learn SASS - Design Course](https://www.youtube.com/watch?v=roywYSEPSvc)
+
+### B. JavaScript Revision
+
+[Learn to Use Expressions - codeSTACKr](https://www.youtube.com/watch?v=uenZRW1kezQ))
+
+[**Learn JavaScript - Codeacademy**](https://www.codecademy.com/learn/introduction-to-javascript)
+
+[**Tricy Part of JavaScript - Scrimba**](https://scrimba.com/learn/trickyjavascript)
+
+[Learn Javascript - Scrimba](https://scrimba.com/learn/learnjavascript)
+
+[Modern JavaScript Tutorial](https://javascript.info/)
+
+[Asynchronous Javascript (Async/Await, Promises, Callbacks) - FreeCodeCamp](https://www.youtube.com/watch?v=ZYb_ZU8LNxs)
+
+[**Event Loop in JS - Philip Roberts | JSConf EU**](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+
+### C. HTML Canvas
+
+[Learning HTML Canvas - Steve Griffith](https://www.youtube.com/watch?v=uh1Sgj2Gt70&list=PLyuRouwmQCjlqieGcZgsDlGHtHFar-ZOp)
+
+### D. CSS Practice
+
+1. Glassmorphism
+1. Dark Mode
+1. Landing Pages
+1. Only CSS - drawings tutorials
+1. Frontend Mentor Challenges
+
+### E. React Fundamentals 
+
+[React 101 - Codeacademy](https://www.codecademy.com/learn/react-101)
+
+[**React Crash Course fro Beginners - Academind**](https://www.youtube.com/watch?v=Dorf8i6lCuk)
+
+[React JS CC - TraversyMedia](https://www.youtube.com/watch?v=w7ejDZ8SWv8)
+
+[Learn React - Scrimba](https://scrimba.com/learn/learnreact)
+
+[10 React Hooks Explained - Fireship](https://www.youtube.com/watch?v=TNhaISOUy6Q)
+
+[React Router Crash Course - FreeCodeCamp](https://www.youtube.com/watch?v=Jppuj6M1sJ4)
+
+[React Global State Management - DevEd](https://www.youtube.com/watch?v=35lXWvCuM8o)
+
+[React Context API with Project - Roadside Coder ](https://www.youtube.com/watch?v=gQ_l-1zpVBo)
+
+[Shopping Cart : Context API with useReducer - Roadside Coder](https://www.youtube.com/watch?v=HptuMAUaNGk)
+
+[Code 15 React Projects - FreeCodeCamp](https://www.youtube.com/watch?v=a_7Z7C_JCyo)
+
+[React JS MicroBytes - codeSTACKr](https://www.youtube.com/watch?v=UGcALH8kPC0&list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0)
