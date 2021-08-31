@@ -175,28 +175,46 @@ Crash course to make me more comfortable after learning fundamentals of HTML and
 ## MONTH 4 - Frontend Technology Tutorials
 
 ### A. SASS
+
 [Getting started with SASS - Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjMYRhK9vRPatSlb-9r0aKgh)
+
 [SASS Tutorial -Net Ninja](https://www.youtube.com/watch?v=_kqN4hl9bGc&list=PL4cUxeGkcC9jxJX7vojNVK-o8ubDZEcNb)
 
+
 ### B. CSS Frameworks
+
 [Bootstrap 5 Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
+
 [Tailwind CSS Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw)
 
 ### C. Javascript
+
 [Vanilla Javascript 15 projects - freeCodeCamp](https://www.youtube.com/watch?v=3PHXvlpOkf4)
+
 [Typescript Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gUgr39Q_yD6v-bSyMwKPUI)
+
 [Next.js Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw)
+
 [Next.js Crash Course - Academind](https://www.youtube.com/watch?v=MFuwkrseXVE)
 
 ### D. React
+
 [**Learn Webpack Course - Colt Steele**](https://www.youtube.com/playlist?list=PLblA84xge2_zwxh3XJqy6UVxS60YdusY8)
+
 [React Fundamental Tutorial - Coding Addict](https://youtu.be/iZhV0bILFb0?list=PLqgstL5cytrxcTdbX5KAt1rbAmAqlWexE)
+
 [Material UI - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gjxLvV4VEkZ6H6H4yWuS58)
+
 [Framer Motion (React Animations) Tutorial - Net Ninja](https://www.youtube.com/playlist?list=PL4cUxeGkcC9iHDnQfTHEVVceOEBsOf07i)
+
 [**React with Typescript - Webeinfalk**](https://www.youtube.com/playlist?list=PL0jpcQ5lO0nFRb4ecmZWr6wiW9zQ0Rv2j)
+
 [React Typescript Quiz App - Webeinfalk](https://www.youtube.com/watch?v=SdOtuCdTdq8)
+
 [React Shopping Cart with Typescript - Webeinfalk](https://www.youtube.com/watch?v=7NqeSf1c-bw)
+
 [Managing React Application State Management - Talk by Kent C. Dodds](https://youtu.be/zpUMRsAO6-Y)
+
 React Query
 Styled Components
 Context API + Reducer
