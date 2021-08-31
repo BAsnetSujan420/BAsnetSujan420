@@ -174,6 +174,7 @@ Crash course to make me more comfortable after learning fundamentals of HTML and
 
 ## MONTH 4 - Frontend Technology Tutorials
 
+
 ### A. SASS
 
 [Getting started with SASS - Kevin Powell](https://www.youtube.com/playlist?list=PL4-IK0AVhVjMYRhK9vRPatSlb-9r0aKgh)
@@ -216,8 +217,11 @@ Crash course to make me more comfortable after learning fundamentals of HTML and
 [Managing React Application State Management - Talk by Kent C. Dodds](https://youtu.be/zpUMRsAO6-Y)
 
 React Query
+
 Styled Components
+
 Context API + Reducer
+
 Redux Basics
 
 
