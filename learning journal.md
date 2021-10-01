@@ -227,13 +227,13 @@ Redux Basics
 
 ## MONTH 5 - Revision : CSS with SASS  +  Figma
 
-web layouts and components
+### web layouts and components
 
 navbars, footers, cards
 
 grid layouts, flexbox
 
-mobile first design
+### mobile first design
 
-hover effects and click events
+### hover effects and click events
 
