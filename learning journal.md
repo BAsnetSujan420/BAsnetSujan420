@@ -237,3 +237,14 @@ grid layouts, flexbox
 
 ### hover effects and click events
 
+
+## MONTH 6 - Website Template Design :  Figma & CSS
+
+corporate / business template
+
+navigation bar with mega menu
+
+ecommerce template
+
+
+
