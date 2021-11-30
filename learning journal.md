@@ -253,6 +253,10 @@ ecommerce template
 
 accordion, responsive navbar, modal
 
+[CSS animations - the complete guide with 100 projects! - Ahmed Sadek](https://www.skillshare.com/classes/CSS-animations-the-complete-guide-with-100-projects/1527440182)
+
 ### theme design with tailwind CSS JIT compiler
+
+[ Tailwind CSS: From Zero to Production - Tailwind Labs](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 
 ### react js fundamentals - revision
