@@ -247,4 +247,12 @@ navigation bar with mega menu
 ecommerce template
 
 
+## MONTH 7 - CSS & Tailwind CSS
 
+### component design with CSS
+
+accordion, responsive navbar, modal
+
+### theme design with tailwind CSS JIT compiler
+
+### react js fundamentals - revision
