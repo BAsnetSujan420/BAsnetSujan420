@@ -260,3 +260,4 @@ accordion, responsive navbar, modal
 [ Tailwind CSS: From Zero to Production - Tailwind Labs](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 
 ### react js fundamentals - revision
+[React Fundamentals Document from CodeAcademy] (https://dandy-firewall-2f6.notion.site/React-Fundamentals-76386415b8ae4fb8afe0c06dafdff854)
