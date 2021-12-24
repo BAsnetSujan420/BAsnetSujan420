@@ -261,3 +261,6 @@ accordion, responsive navbar, modal
 
 ### react js fundamentals - revision
 [React Fundamentals Document from CodeAcademy] (https://dandy-firewall-2f6.notion.site/React-Fundamentals-76386415b8ae4fb8afe0c06dafdff854)
+
+### Awesome CSS Resources collection
+[CSS Resource Collection including The CSS Podcast] (https://dandy-firewall-2f6.notion.site/Awesome-CSS-Resources-8f179134c4f246fc9e8f6fcb5d9cc038)
