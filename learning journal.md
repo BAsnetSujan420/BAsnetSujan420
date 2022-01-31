@@ -260,7 +260,27 @@ accordion, responsive navbar, modal
 [ Tailwind CSS: From Zero to Production - Tailwind Labs](https://www.youtube.com/watch?v=elgqxmdVms8&list=PL5f_mz_zU5eXWYDXHUDOLBE0scnuJofO0)
 
 ### react js fundamentals - revision
-[React Fundamentals Document from CodeAcademy] (https://dandy-firewall-2f6.notion.site/React-Fundamentals-76386415b8ae4fb8afe0c06dafdff854)
+[React Fundamentals Document from CodeAcademy] (https://dandy-firewall-2f6.notion.site/REACT-Notes-b10b9513cc624cb4ad2ad01268cc04cf)
 
 ### Awesome CSS Resources collection
 [CSS Resource Collection including The CSS Podcast] (https://dandy-firewall-2f6.notion.site/Awesome-CSS-Resources-8f179134c4f246fc9e8f6fcb5d9cc038)
+
+
+## MONTH 8 - Deep dive into CSS
+
+### CSS Mental Modal
+
+[**Learn CSS - web.dev**] (https://web.dev/learn/css/)
+
+[Important CSS concepts to begin - Kevin Powell] (https://youtu.be/JnTPd9G6hoY)
+
+[How flexbox works - Kevin Powell](https://youtu.be/u044iM9xsWU)
+
+[**Conquering Responsive Layouts - Kevin Powell**](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
+
+[Articles by Josh Comeau](https://www.joshwcomeau.com/latest/)
+
+[Articles by Ahmad Shadeed](https://ishadeed.com/articles/)
+
+
+
