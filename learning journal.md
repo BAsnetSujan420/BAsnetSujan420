@@ -270,11 +270,17 @@ accordion, responsive navbar, modal
 
 ### CSS Mental Modal
 
-[**Learn CSS - web.dev**] (https://web.dev/learn/css/)
+[**Learn CSS - web.dev**](https://web.dev/learn/css/)
 
-[Important CSS concepts to begin - Kevin Powell] (https://youtu.be/JnTPd9G6hoY)
+[Important CSS concepts to begin - Kevin Powell](https://youtu.be/JnTPd9G6hoY)
 
 [How flexbox works - Kevin Powell](https://youtu.be/u044iM9xsWU)
+
+[The CSS Cascade - Amelia Wattenberger](https://wattenberger.com/blog/css-cascade)
+
+[The World of CSS Transforms - Josh Comeau](https://www.joshwcomeau.com/css/transforms/)
+
+[Defensive CSS - Ahmad Shadeed](https://ishadeed.com/article/defensive-css/)
 
 [**Conquering Responsive Layouts - Kevin Powell**](https://courses.kevinpowell.co/view/courses/conquering-responsive-layouts)
 
@@ -283,4 +289,37 @@ accordion, responsive navbar, modal
 [Articles by Ahmad Shadeed](https://ishadeed.com/articles/)
 
 
+## MONTH 9 : More CSS articles, React Revision & PODCASTS
 
+### CSS
+
+[How to learn CSS](https://www.smashingmagazine.com/2019/01/how-to-learn-css/)
+
+[Six Tools to Improve Site Accessibility](https://youtu.be/rukDdIUlD3U)
+
+[UI Design Course](https://uxengineer.com/)
+
+[**The CSS Podcast**](https://thecsspodcast.libsyn.com/)
+
+[Next-generation web styling (Chrome Dev Summit 2019)](https://youtu.be/-oyeaIirVC0)
+
+
+### JavaScript & Slowly Learning React
+
+[A re-introduction to JavaScript (JS tutorial)](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+[The Modern JavaScript Tutorial](https://javascript.info/)
+
+[JavaScript to Know for React](https://kentcdodds.com/blog/javascript-to-know-for-react)
+
+[React Docs Beta](https://beta.reactjs.org/learn)
+
+### Podcasts
+
+[**Design Principles For The Web**](https://adactio.com/articles/17733)
+
+[The fundamental JS](https://syntax.fm/show/162/the-fundamentals-js)
+
+[2022 Predicitions](https://syntax.fm/show/420/2022-predictions)
+
+[**Learning CSS with Josh Comeau**](https://podrocket.logrocket.com/learning-css)
